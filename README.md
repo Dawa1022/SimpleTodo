@@ -24,12 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/eRDHQlSrL3.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
+GIF created with [Recordit](https://recordit.co/).
 
 ## License
 
